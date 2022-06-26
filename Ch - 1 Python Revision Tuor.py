@@ -22,7 +22,9 @@ if Num ==2:
     print(Num1,"number has 2 digits")
 if Num ==3:
     print(Num1,"number has 3 digits")
+    
 # Date :- 27/06/2022
+
 
 
     
